@@ -1,0 +1,23 @@
+{
+  "name": "chuni-virtual-base-server",
+  "version": "0.1.0",
+  "description": "Chunithm virtual base server SDBT_1.35 (Chunithm Amazon Plus 1.35)",
+  "main": "virtualbaseserver.js",
+  "dependencies": {
+    "locutus": "^2.0.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node ./virtualbaseserver"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sannoob/chuni-virtual-base-server.git"
+  },
+  "author": "Sannoob#3144",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/sannoob/chuni-virtual-base-server/issues"
+  },
+  "homepage": "https://github.com/sannoob/chuni-virtual-base-server#readme"
+}
